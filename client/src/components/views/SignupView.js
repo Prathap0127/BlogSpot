@@ -80,7 +80,7 @@ const SignupView = () => {
             underline="none"
             style={{ color: "#34c4f2" }}
           >
-            Mitteilen
+            BlogSpot
           </Link>
         </Typography>
         <Typography variant="h5" gutterBottom>

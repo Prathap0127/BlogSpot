@@ -1,13 +1,13 @@
-import { Typography } from '@mui/material';
-import React from 'react';
-import { Link } from 'react-router-dom';
+import { Typography } from "@mui/material";
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Copyright = () => {
   return (
-    <Typography variant='subtitle1' color='text.secondary'>
-      Copyright © 2023{' '}
-      <Link to='/' color='inherit' style={{ color: '#34c4f2' }}>
-        Mitteilen
+    <Typography variant="subtitle1" color="text.secondary">
+      Copyright © 2024{" "}
+      <Link to="/" color="inherit" style={{ color: "#34c4f2" }}>
+        BlogSpot
       </Link>
     </Typography>
   );
