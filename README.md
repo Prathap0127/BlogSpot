@@ -1,6 +1,6 @@
-# Mitteilen
+# BlogSpoT
 
-Mitteilen is a fully-featured social media web application, Here user can post and visitors can comment, like the post if they want. Two users can chat individually after logged respective their accounts.
+BlogSpot is a fully-featured social media web application, Here user can post and visitors can comment, like the post if they want. Two users can chat individually after logged respective their accounts.
 
 ## Stack
 
@@ -28,7 +28,7 @@ Mitteilen is a fully-featured social media web application, Here user can post a
 1. Clone this repository
 
 ```
-git clone https://github.com/Creolestudios/mitteilen-mern.git
+git clone 
 ```
 
 2. Install dependencies
@@ -68,7 +68,4 @@ cd social-media-app
 cd client
 npm start
 ```
-
-## Demo URL
-
-https://vimeo.com/919913359?share=copy
+##END
